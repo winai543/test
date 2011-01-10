@@ -5,4 +5,7 @@
 	<cffunction name="test">
 	
 	</cffunction>
+	<cffunction name="test2">
+	
+	</cffunction>
 </cfcomponent>
