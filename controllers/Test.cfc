@@ -2,4 +2,7 @@
 	<cffunction name="index">
 	
 	</cffunction>
+	<cffunction name="test">
+	
+	</cffunction>
 </cfcomponent>
