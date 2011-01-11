@@ -3,7 +3,7 @@
 	
 	</cffunction>
 	<cffunction name="test">
-		<cfset say = "Hello World">
+		<cfset say = "Hello World 555 666">
 		<cfset genDoc = generateColdDoc("controller","html")>
 	</cffunction>
 	<cffunction name="test2">
